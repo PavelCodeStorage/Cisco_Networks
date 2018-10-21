@@ -19,7 +19,7 @@ More details about calculation navigate to the project
 
 
 **4.Configuration of OSPF :**
-![image](https://user-images.githubusercontent.com/26840848/47272611-bb595180-d590-11e8-8c04-8006c74e8fae.png)
+![47272611-bb595180-d590-11e8-8c04-8006c74e8fae](https://user-images.githubusercontent.com/26840848/47272902-cca45d00-d594-11e8-94fc-cc13f4c711e6.png)
 
 
 
