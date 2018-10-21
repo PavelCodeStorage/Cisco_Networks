@@ -11,10 +11,6 @@ More details see in the inside of project
 
 **2.Configuration of Static Route (via telnet):**
 
-
-**3.Configuration of Static Route (via telnet):**
-
-
-**4.Configuration of OSPF (In progress):**
+**3.Configuration of OSPF (In progress):**
 
 
