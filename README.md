@@ -17,6 +17,9 @@ More details about calculation navigate to the project
 ![ciscopackettraceraccesslist](https://user-images.githubusercontent.com/26840848/47270005-2a717e80-d56e-11e8-8d90-d88c5ed2ee66.png)
 
 
-**3.Configuration of OSPF (In progress):**
+**4.Configuration of OSPF (In progress):**
+![ciscopackettraceraccesslist](https://user-images.githubusercontent.com/26840848/47270005-2a717e80-d56e-11e8-8d90-d88c5ed2ee66.png)
+![image](https://user-images.githubusercontent.com/26840848/47272611-bb595180-d590-11e8-8c04-8006c74e8fae.png)
+
 
 
