@@ -18,7 +18,7 @@ More details about calculation navigate to the project
 
 
 
-**4.Configuration of OSPF (In progress):**
+**4.Configuration of OSPF :**
 ![image](https://user-images.githubusercontent.com/26840848/47272611-bb595180-d590-11e8-8c04-8006c74e8fae.png)
 
 
